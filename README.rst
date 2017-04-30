@@ -12,11 +12,11 @@ Usage
 
 To add Gravatar support to your Lektor project, run::
 
-    $ lektor plugin add lektor-gravatar
+    $ lektor plugins add lektor-gravatar
 
 Then, in a template, you can reference::
 
-    <img src="{{ gravatar(object.email) }}" alt="gravatar">
+    <img src="{{ object.email|gravatar }}" alt="gravatar">
 
 where ``object.email`` is a variable in your context containing an email address.
 
