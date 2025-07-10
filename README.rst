@@ -23,24 +23,24 @@ where ``object.email`` is a variable in your context containing an email address
 Community
 ---------
 
-lektor-gravatar is part of the `BeeWare suite`_. You can talk to the community through:
+lektor-gravatar is part of the `BeeWare suite <https://beeware.org>`__. You can talk to the
+community through:
 
-* `@pybeeware on Twitter`_
+* `@beeware@fosstodon.org on Mastodon <https://fosstodon.org/@beeware>`__
 
-* The `pybee/general`_ channel on Gitter.
+* `Discord <https://beeware.org/bee/chat/>`__
+
+We foster a welcoming and respectful community as described in our `BeeWare Community
+Code of Conduct <https://beeware.org/community/behavior/>`__.
 
 Contributing
 ------------
 
-If you experience problems with this backend, `log them on GitHub`_. If you
-want to contribute code, please `fork the code`_ and `submit a pull request`_.
+If you experience problems with lektor-gravatar, `log them on GitHub <https://github.com/beeware/lektor-gravatar/issues>`__.
+
+If you want to contribute, please `fork the project <https://github.com/beeware/lektor-gravatar>`__ and `submit a pull request <https://github.com/beeware/lektor-gravatar/pulls>`__.
+
 
 .. _Lektor: https://www.getlektor.com
 .. _Gravatar: http://en.gravatar.com
 .. _documentation on writing Lektor plugins: https://www.getlektor.com/docs/plugins/howto/
-.. _BeeWare suite: http://pybee.org
-.. _@pybeeware on Twitter: https://twitter.com/pybeeware
-.. _pybee/general: https://gitter.im/pybee/general
-.. _log them on Github: https://github.com/pybee/lektor-gravatar/issues
-.. _fork the code: https://github.com/pybee/lektor-gravatar
-.. _submit a pull request: https://github.com/pybee/lektor-gravatar/pulls
